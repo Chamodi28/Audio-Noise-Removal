@@ -6,9 +6,9 @@ This project focuses on mitigating the disruptive noise caused by Vuvuzelas, the
 ### Original audio with no noise in the time domain
 ![Screenshot (226)](https://github.com/Chamodi28/Audio-Noise-Removal/assets/131423697/98e5f418-36ec-476b-848e-f81cf614f0d2)
 
-### Vuvuzela signal in the time domain
-In this figure, fundamental frequency components can be seen in the range of 250 Hz to 2000 Hz. 
-![Screenshot (227)](https://github.com/Chamodi28/Audio-Noise-Removal/assets/131423697/30214bc4-7559-41c3-8a3c-53686b1443b1)
+### Vuvuzela signal in the frequency domain
+As following figure, the fundamental frequency components can be seen in the range of 250 Hz to 2000 Hz. 
+![Screenshot (231)](https://github.com/Chamodi28/Audio-Noise-Removal/assets/131423697/7fb2c41a-f184-4565-834c-532006399305)
 
 ### Distorted signal (includes vuvuzela noise) in the time domain
 ![Screenshot (228)](https://github.com/Chamodi28/Audio-Noise-Removal/assets/131423697/f58b1193-8f14-4652-8aa3-1e27195bc410)
